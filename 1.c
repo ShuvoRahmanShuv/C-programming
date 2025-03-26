@@ -1,5 +1,4 @@
 #include <stdio.h>
-#in
 int main()
 {
     char Name[50] = "MD. Mamunur Rahman Shuvo";
