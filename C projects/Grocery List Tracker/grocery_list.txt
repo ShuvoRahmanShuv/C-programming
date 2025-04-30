@@ -1,0 +1,4 @@
+1. Milk - 5 (Regular)
+2. Banana - 12 (Bulk!)
+
+Total items in list: 17
